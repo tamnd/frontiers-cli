@@ -1,0 +1,10 @@
+title       = "frontiers"
+baseURL     = "https://frontiers-cli.tamnd.com/"
+description = "A command line for frontiers."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/frontiers-cli"
